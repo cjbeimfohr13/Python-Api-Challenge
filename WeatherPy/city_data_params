@@ -1,0 +1,11 @@
+City,Lat,Lng,Max_Temp,Humidity,Cloudiness,Wind_Speed,Country,Date
+imbituba,-28,-48,77,94,0,6,BR,1611717037
+saint-philippe,-21,55,77,53,0,10,RE,1611716756
+vila velha,-20,-40,77,83,0,4,BR,1611717052
+puerto escondido,15,-97,77,70,0,4,MX,1611716981
+saint-pierre,-21,55,77,53,0,10,RE,1611716778
+salalah,17,54,73,31,0,10,OM,1611716862
+sao filipe,14,-24,72,70,0,3,CV,1611716759
+boa vista,2,-60,80,69,0,8,BR,1611717170
+west bay,19,-81,79,78,0,5,KY,1611717175
+panaba,21,-88,71,93,0,7,MX,1611717176
