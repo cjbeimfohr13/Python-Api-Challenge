@@ -1,6 +1,6 @@
 # Python-Api-Challenge
 
-Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
+Tools used - Jupyter Notebook
 
 ## WeatherPy
 
@@ -11,9 +11,6 @@ Scatter Plots:
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
-
-Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
-
 * Northern Hemisphere - Temperature (F) vs. Latitude
 * Southern Hemisphere - Temperature (F) vs. Latitude
 * Northern Hemisphere - Humidity (%) vs. Latitude
@@ -37,8 +34,6 @@ Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern H
   * Wind speed less than 10 mph.
 
   * Zero cloudiness.
-
-  * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
 
   * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
