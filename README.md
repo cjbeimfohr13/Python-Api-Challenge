@@ -39,4 +39,3 @@ Scatter Plots:
 
   * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-https://github.com/cjbeimfohr13/Python-Api-Challenge/blob/master/WeatherPy/map%20(1).png
