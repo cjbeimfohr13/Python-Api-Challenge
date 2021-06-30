@@ -1,7 +1,5 @@
 # Python-Api-Challenge
 
-Tools used - Jupyter Notebook
-
 ## WeatherPy
 
 Utilized [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api)
